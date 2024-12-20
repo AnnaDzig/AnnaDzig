@@ -5,7 +5,7 @@
 
 -  🏠 Living in Kolding.
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ann-dzhyhota/), or adzihota@gmail.com !
--  💻 I’m currently learning React Native, C#, and .NET.
+-  💻 I’m currently learning C#, and .NET.
 -  ✈️ I like to travel and 🤾‍♀️ sport in my free time.
 
 ### My skills, for now, include:<br>
