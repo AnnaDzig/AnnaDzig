@@ -1,6 +1,6 @@
  **Hi there 👋, I am [Anna Dzhyhota](https://github.com/AnnaDzig)!**
  
-  Welcome to my GitHub profile! I am a junior web developer passionate about coding and creating beautiful and functional websites.
+  Welcome to my GitHub profile! I am a software developer passionate about coding and creating beautiful and functional app/websites.
  
 
 -  🏠 Living in Kolding.
