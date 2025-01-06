@@ -13,5 +13,5 @@
 **Languages and tools**
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,react_native,vue,nodejs,nextjs,tailwind,git,docker,mongodb,mysql,azure,cs,dotnet,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,reactnative,vue,nodejs,nextjs,tailwind,git,docker,mongodb,mysql,azure,cs,dotnet,figma&theme=light)](https://skillicons.dev)
 
