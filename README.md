@@ -13,6 +13,6 @@
 **Languages and tools**
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,vue,nodejs,nextjs,tailwind,git,docker,postman,mongodb,mysql,azure,cs,dotnet,figma&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,rectnative,vue,nodejs,nextjs,tailwind,git,docker,postman,mongodb,mysql,azure,cs,dotnet,figma&theme=light)](https://skillicons.dev)  
 
 
