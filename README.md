@@ -4,7 +4,7 @@
  
 
 -  🏠 Living in Kolding.
--  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ann-dzhyhota/), or adzihota@gmail.com !
+-  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ann-dzhyhota/), or anna.soft.dev@gmail.com !
 -  💻 I’m currently finished with learning C#, and .NET in  [CyberBionic Systematics School](https://cbsystematics.com/.) and AWS in [RSSchool](https://rs.school/)
 -  ✈️ I like to travel and 🤾‍♀️ sport in my free time.
 
