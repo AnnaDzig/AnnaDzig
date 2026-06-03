@@ -1,4 +1,4 @@
- **Hi there 👋, I am [Anna Dzhyhota](https://github.com/AnnaDzig)!**
+ **Hi there , I am [Anna Dzhyhota](https://github.com/AnnaDzig)!**
  
   Welcome to my GitHub profile! I am a software developer passionate about coding and creating beautiful and functional app/websites.
  
