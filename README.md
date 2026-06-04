@@ -4,8 +4,8 @@
  
 
 -  Living in Kolding.
--  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ann-dzhyhota/), or anna.soft.dev@gmail.com !
--  💻 I’m currently finished with learning C#, and .NET in  [CyberBionic Systematics School](https://cbsystematics.com/.) and going to AWS in [RSSchool](https://rs.school/)
+-  How to reach me: [Linkedin](https://www.linkedin.com/in/ann-dzhyhota/), or anna.soft.dev@gmail.com !
+-  I’m currently finished with learning C#, and .NET in  [CyberBionic Systematics School](https://cbsystematics.com/.) and going to AWS in [RSSchool](https://rs.school/)
 -  My Portfolio link: [Portfolio](https://annadzig.github.io/anna-portfolio/) (Built with React, TypeScript, Vite, and Tailwind CSS.
 Implemented reusable sections, responsive layouts, dark/light theme logic, and project presentation.
 Deployed through GitHub Pages.
