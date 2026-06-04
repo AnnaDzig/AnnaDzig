@@ -11,8 +11,6 @@ Implemented reusable sections, responsive layouts, dark/light theme logic, and p
 Deployed through GitHub Pages.
 Focused on clean UI, maintainable structure, and frontend presentation of real work.)
 
--  ✈️ I like to travel and 🤾‍♀️ sport in my free time.
-
 ### My skills, for now, include:<br>
 
 **Languages and tools**
